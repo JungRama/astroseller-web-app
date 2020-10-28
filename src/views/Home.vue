@@ -2,7 +2,7 @@
   <div class="home">
     <GeneralLayout>
       <v-row>
-        <v-col cols="12" sm="12" lg="3">
+        <v-col cols="12" sm="12" lg="4">
           <v-card class="mb-3" outlined>
             <v-list-item three-line>
               <v-list-item-content>
