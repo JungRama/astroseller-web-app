@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "firebase": "^7.2.3",
-    "firebase-admin": "^8.7.0",
+    "firebase-admin": "^11.4.1",
     "material-design-icons": "^3.0.1",
     "material-design-icons-iconfont": "^5.0.1",
     "register-service-worker": "^1.6.2",
